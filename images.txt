@@ -1,2 +1,2 @@
- juanfont/headscale
+erosback/headscale:latest
 
