@@ -1,2 +1,2 @@
-erosback/headscale
+erosback/headscale:latest
 
